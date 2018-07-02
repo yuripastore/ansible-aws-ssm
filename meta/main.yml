@@ -149,9 +149,9 @@ galaxy_info:
   #  - any
   - name: Debian
     versions:
-  #  - all
+    - all
   #  - etch
-    - jessie
+  #  - jessie
   #  - lenny
   #  - sid
   #  - squeeze
